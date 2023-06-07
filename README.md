@@ -1,9 +1,9 @@
 # LEGOBENCH: Leaderboard Generation Benchmark for Scientific Models
 
-![GitHub](https://img.shields.io/github/license/lingo-iitgn/LEGOBench)
+<!-- ![GitHub](https://img.shields.io/github/license/lingo-iitgn/LEGOBench)
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/lingo-iitgn/LEGOBench)
 ![GitHub last commit](https://img.shields.io/github/last-commit/lingo-iitgn/LEGOBench)
-
+ -->
 
 
 ## Abstract
