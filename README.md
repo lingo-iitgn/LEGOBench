@@ -20,7 +20,7 @@ The ever-increasing volume of paper submissions makes it difficult to stay infor
 ## Requirements
 
 - Python 3.7 or higher
-- Additional requirements can be found in the `requirements.txt` file.
+<!-- - Additional requirements can be found in the `requirements.txt` file. -->
 
 ## Usage
 
