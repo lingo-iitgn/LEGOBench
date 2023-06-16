@@ -33,6 +33,16 @@ git clone https://github.com/lingo-iitgn/LEGOBench.git
 
 ## Authors
 
-- Shoaib Alam
-- Shruti Singh
-- Mayank Singh
+- #### Shoaib Alam
+  - Computer Science and Engineering
+  - Indian Institute of Technology Gandhinagar
+  - India
+- #### Shruti Singh
+  - Computer Science and Engineering
+  - Indian Institute of Technology Gandhinagar
+  - India
+- #### Mayank Singh
+  - Computer Science and Engineering
+  - Indian Institute of Technology Gandhinagar
+  - India
+
