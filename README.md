@@ -35,14 +35,14 @@ git clone https://github.com/lingo-iitgn/LEGOBench.git
 
 - #### Shoaib Alam
   - Computer Science and Engineering
-  - Indian Institute of Technology Gandhinagar
-  - India
+  - Indian Institute of Technology Gandhinagar, India
+  - Email: shoaibalam@iitgn.ac.in
 - #### Shruti Singh
   - Computer Science and Engineering
-  - Indian Institute of Technology Gandhinagar
-  - India
+  - Indian Institute of Technology Gandhinagar, India
+  - Email: singh_shruti@iitgn.ac.in
 - #### Mayank Singh
   - Computer Science and Engineering
-  - Indian Institute of Technology Gandhinagar
-  - India
+  - Indian Institute of Technology Gandhinagar, India
+  - Email: singh.mayank@iitgn.ac.in
 
