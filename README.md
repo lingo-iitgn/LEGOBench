@@ -13,7 +13,7 @@ The ever-increasing volume of paper submissions makes it difficult to stay infor
 ## Features
 
 - **Dataset**: The benchmark dataset used in the paper, curated from arXiv and PapersWithCode.
-The dataset is available at [link](https://osf.io/9v2py/?view_only=6f91b0b510df498ba01595f8f278f94c)  
+The dataset is available at [link](https://osf.io/9v2py/?view_only=6f91b0b510df498ba01595f8f278f94c).  
 - **Evaluation Metrics**: Code to evaluate leaderboard generation systems using the proposed metrics.
 - **Baseline Methods**: Implementations of baseline methods for leaderboard generation.
 - **Experiments**: Code and instructions to reproduce the experiments conducted in the paper.
