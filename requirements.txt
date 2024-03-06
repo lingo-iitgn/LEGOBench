@@ -18,3 +18,4 @@ ipython
 ipywidgets
 bert-score
 BLEURT
+snap
