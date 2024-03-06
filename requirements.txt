@@ -19,3 +19,5 @@ ipywidgets
 bert-score
 BLEURT
 snap
+requests
+beautifulsoup4
