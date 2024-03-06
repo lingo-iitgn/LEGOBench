@@ -3,7 +3,7 @@
 This project curates arXiv papers to extract relevant information and generate citation and performance networks. For more details on the dataset, please refer to the [preprint](https://arxiv.org/abs/2401.06233). The entire dataset is publicly available on [OSF](https://osf.io/9v2py/?view_only=6f91b0b510df498ba01595f8f278f94c).  
 
 arXiv Papers' Collection is a collection of datasets curating diverse paper information from arXiv, consisting of the following datasets:  
-<img src="../figures/datasetsummary.png" alt="LEGOBench data curation pipeline." width="400"/>  
+<img src="../figures/datasetsummary.png" alt="Dataset summary" width="400"/>  
 
 
 ## Installation and Dependencies
