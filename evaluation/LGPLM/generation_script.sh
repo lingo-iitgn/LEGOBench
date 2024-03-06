@@ -1,0 +1,12 @@
+CUDA_VISIBLE_DEVICES=0 python ldb_generation_task.py --model_name HuggingFaceH4/zephyr-7b-beta
+CUDA_VISIBLE_DEVICES=0 python ldb_generation_task.py --model_name tiiuae/falcon-7b
+CUDA_VISIBLE_DEVICES=0 python ldb_generation_task.py --model_name tiiuae/falcon-7b-instruct
+CUDA_VISIBLE_DEVICES=0 python ldb_generation_task.py --model_name lmsys/vicuna-7b-v1.5
+CUDA_VISIBLE_DEVICES=0 python ldb_generation_task.py --model_name lmsys/vicuna-13b-v1.5
+CUDA_VISIBLE_DEVICES=0 python ldb_generation_task.py --model_name meta-llama/Llama-2-7b-hf
+CUDA_VISIBLE_DEVICES=0 python ldb_generation_task.py --model_name meta-llama/Llama-2-7b-chat-hf
+CUDA_VISIBLE_DEVICES=0 python ldb_generation_task.py --model_name meta-llama/Llama-2-13b-chat-hf
+CUDA_VISIBLE_DEVICES=0 python ldb_generation_task.py --model_name meta-llama/Llama-2-13b-hf
+CUDA_VISIBLE_DEVICES=0 python ldb_generation_task.py --model_name mistralai/Mistral-7B-v0.1
+CUDA_VISIBLE_DEVICES=0 pythob ldb_generation_task.py --model_name mistralai/Mistral-7B-Instruct-v0.1
+CUDA_VISIBLE_DEVICES=0 python ldb_generation_task.py --model_name facebook/galactica-6.7b
