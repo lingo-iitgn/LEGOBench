@@ -1,7 +1,6 @@
 # Ranking Papers based on Content and Graph \[RPG\]
 
 
-
 <img src="../../figures/rpg.png" alt="RPG Baseline." width="700"/>  
 
 Figure: Pipeline for ranking papers with content and graph for leaderboard generation (RPG).  
